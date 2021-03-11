@@ -1,1 +1,1 @@
-# lecture0
+# CS50_notes
